@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "topicId": 1,
+      "isFierce": false,
+      "question": "Phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại là gì?",
+      "image": "",
+      "options": [
+        "Phần mặt đường và lề đường.",
+        "Phần đường xe chạy.",
+        "Phần đường xe cơ giới."
+      ],
+      "includeA1": 1,
+      "includeA2": 1,
+      "includeA34": 1,
+      "includeB1": 1,
+      "includeB2": 1,
+      "includeC": 1,
+      "includeDEF": 1,
+      "learned": 0,
+      "marked": 0,
+      "answer": 2,
+      "tip": "<p>Câu 1 sai vì lề đường được hiểu là phần mép phía hai bên đường. Lề đường có tác dụng bảo vệ mặt đường, phần đường này thường dành cho người đi bộ đi bộ bên.Không dành cho phương tiện giao thông qua lại.<br/>Câu 3 sai vì phần đường dành cho xe cơ giới là phần của đường bộ được sử dụng cho các phương tiện giao thông cơ giới đường bộ và xe máy chuyên dùng<br/>Câu 2 đúng vì phần đường xe chạy là phần của đường bộ được sử dụng cho tất cả các phương tiện giao thông qua lại.<br/>Mẹo: Lề đường không sử dụng cho các phương tiện giao thông qua lại.</p>"
+    }
+  ]
+}

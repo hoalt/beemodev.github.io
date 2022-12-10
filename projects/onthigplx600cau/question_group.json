@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "questionGroups": [
+    {
+      "id": 101,
+      "name": "Đề 1",
+      "licenseId": 1,
+      "systemGroup": true,
+      "numberQuestion": 25,
+      "passedQuestion": 21,
+      "time": 19,
+      "remainTime": 1140,
+      "status": "new",
+      "questionList": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "licenseId": 1,
+      "iconName": "topic_assignment.png",
+      "topicName": "Khái niệm và quy tắc",
+      "note": "83 câu hỏi (18 câu điểm liệt)",
+      "numberQuestions": 83,
+      "numberFierceQuestions": 18,
+      "currentPage": 0
+    }
+  ]
+}
