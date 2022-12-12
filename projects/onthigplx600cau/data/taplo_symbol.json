@@ -1,0 +1,452 @@
+{
+  "taploSymbols": [
+    {
+      "id": 1,
+      "title": "Đèn cảnh báo phanh tay",
+      "image": "1.png",
+      "meaning": "Có thể cần phanh tay đang kéo lên trong khi Bạn đạp ga.",
+      "handling": "Kiểm tra ngay tình trạng phanh tay."
+    },
+    {
+      "id": 2,
+      "title": "Đèn cảnh báo nhiệt độ",
+      "image": "2.png",
+      "meaning": "\nNhiệt độ động cơ cao hơn mức tiêu chuẩn (động cơ nóng quá mức). Có thể do các nguyên nhân:\n– Hết nước làm mát hoặc hệ thống nước làm mát gặp trục trặc.\n– Bộ ổn nhiệt hoặc quạt thông gió có thể đang bật liên tục, làm cho động cơ ngốn xăng nhiều hơn.",
+      "handling": ""
+    },
+    {
+      "id": 3,
+      "title": "Đèn cảnh báo áp dầu ở mức thấp",
+      "image": "3.png",
+      "meaning": "– Áp suất dầu trong động cơ có thể quá thấp (thiếu dầu).\n– Bơm dầu có thể bị hỏng hoặc đường vào bị tắc.\n– Dầu nhớt đang sử dụng có thể có độ nhớt sai so với khuyến cáo của hãng xe.",
+      "handling": ""
+    },
+    {
+      "id": 4,
+      "title": "Đèn cảnh báo trợ lực lái điện",
+      "image": "4.png",
+      "meaning": "Cảm biến (sensor) trợ lực có thể bị lỗi hoặc hỏng.\n– Hệ thống trợ lực lái điện EPS có thể bị trục trặc.",
+      "handling": ""
+    },
+    {
+      "id": 5,
+      "title": "Đèn cảnh báo túi khí",
+      "image": "5.png",
+      "meaning": "Hệ thống túi khí bị trục trặc hoặc một hay nhiều túi khi bị vô hiệu hóa bằng tay.",
+      "handling": "Mang xe đi kiểm tra ở một trung tâm dịch vụ có giấy chứng nhận."
+    },
+    {
+      "id": 6,
+      "title": "Cảnh báo lỗi ắc-quy",
+      "image": "6.png",
+      "meaning": "Ắc quy chưa được sạc hoặc sạc không đúng cách. Tín hiệu này thường xuất hiện khi động cơ đang tắt.",
+      "handling": "Kiểm tra và sạc lại ắc quy đúng cách."
+    },
+    {
+      "id": 7,
+      "title": "Cảnh báo khóa vô lăng",
+      "image": "7.png",
+      "meaning": "Vô lăng bị khóa.",
+      "handling": "Kiểm tra khóa vô lăng."
+    },
+    {
+      "id": 8,
+      "title": "Đèn báo bật công tắc khóa điện",
+      "image": "8.png",
+      "meaning": "Khóa điện đang ở trạng thái “khóa”.",
+      "handling": "Mở (bật) công tắc khóa điện."
+    },
+    {
+      "id": 9,
+      "title": "Đèn báo chưa thắt dây an toàn",
+      "image": "9.png",
+      "meaning": "Một hoặc nhiều dây an toàn (seatbell) chưa được thắt lại.",
+      "handling": "Kiểm tra và thắt dây an toàn ở các ghế ngồi."
+    },
+    {
+      "id": 10,
+      "title": "Đèn báo cửa xe chưa đóng",
+      "image": "10.png",
+      "meaning": "Một hoặc nhiều cửa xe chưa được đóng kín đúng cách.",
+      "handling": "Kiểm tra và đóng kín tất cả cửa xe."
+    },
+    {
+      "id": 11,
+      "title": "Đèn báo nắp capo xe bị mở",
+      "image": "11.png",
+      "meaning": "Nắp ca-pô chưa được đóng kín đúng cách.",
+      "handling": "Kiểm tra và đóng kín nắp ca-pô."
+    },
+    {
+      "id": 12,
+      "title": "Đèn báo cốp xe đang mở",
+      "image": "11.png",
+      "meaning": "Cốp sau xe chưa được đóng kín đúng cách.",
+      "handling": "Kiểm tra và đóng kín cốp xe."
+    },
+    {
+      "id": 13,
+      "title": "Đèn cảnh báo lỗi động cơ, khí thải",
+      "image": "13.png",
+      "meaning": "Động cơ gặp trục trặc khiến lượng khí thải cao hơn mức tiêu chuẩn. Điều này có thể do:\n– Động cơ bị hỏng.\n– Một cảm biến nào đó của động cơ bị lỗi hoặc bị hỏng.",
+      "handling": "Đưa xe đi kiểm tra."
+    },
+    {
+      "id": 14,
+      "title": "Đèn cảnh báo bộ lọc hạt diesel",
+      "image": "14.png",
+      "meaning": "Bộ lọc hạt diesel hoạt động không tốt khiến lượng khí thải cao hơn tiêu chuẩn.",
+      "handling": "Đưa xe đi kiểm tra."
+    },
+    {
+      "id": 15,
+      "title": "Đèn cảnh báo cần gạt kính chắn gió tự động",
+      "image": "15.png",
+      "meaning": "Cần gạt tự động cho kính chắn gió có thể bị lỗi.",
+      "handling": "Kiểm tra tình trạng cần gạt."
+    },
+    {
+      "id": 16,
+      "title": "Đèn báo sấy nóng bugi/ dầu diesel",
+      "image": "16.png",
+      "meaning": "Bugi đang sấy nóng dầu giúp xe dễ khởi động, đặc biệt trong điều kiện thời tiết lạnh.",
+      "handling": "Đợi cho đến khi đèn hết sáng mới khởi động xe. Nếu đèn sáng quá lâu thì có thể do trời quá lạnh hoặc bugi bị lỗi."
+    },
+    {
+      "id": 17,
+      "title": "Đèn báo áp suất dầu ở mức thấp",
+      "image": "17.png",
+      "meaning": "",
+      "handling": ""
+    },
+    {
+      "id": 18,
+      "title": "Đèn cảnh báo tắt hệ thống cân bằng điện tử",
+      "image": "18.png",
+      "meaning": "Hệ thống cân bằng thân xe đang hoạt động. Khi đường trơn trượt, hệ thống này giúp xe cân bằng (chống bị trượt), tăng độ bám đường khi phải đánh lái nhiều.",
+      "handling": "Đa số xe có nút tắt hệ thống cân bằng điện tử (dành cho các tài xe không thích chức năng này hoặc những người thích “drift”). Đối với người lái xe thông thường, không nên tắt đèn này."
+    },
+    {
+      "id": 19,
+      "title": "Đèn cảnh báo tắt hệ thống cân bằng điện tử",
+      "image": "19.png",
+      "meaning": "Hệ thống cân bằng thân xe đang hoạt động. Khi đường trơn trượt, hệ thống này giúp xe cân bằng (chống bị trượt), tăng độ bám đường khi phải đánh lái nhiều.",
+      "handling": "Đa số xe có nút tắt hệ thống cân bằng điện tử (dành cho các tài xe không thích chức năng này hoặc những người thích “drift”). Đối với người lái xe thông thường, không nên tắt đèn này."
+    },
+    {
+      "id": 20,
+      "title": "Đèn cảnh báo áp suất lốp ở mức thấp",
+      "image": "20.png",
+      "meaning": "Một hoặc nhiều lốp xe đang bị thiếu hơi.",
+      "handling": "Kiểm tra các lốp xe và bơm hơi đúng tiêu chuẩn."
+    },
+    {
+      "id": 21,
+      "title": "Đèn báo cảm ứng mưa",
+      "image": "21.png",
+      "meaning": "Cảm ứng mưa có thể bị lỗi.",
+      "handling": "Đưa xe đi kiểm tra nếu cần thiết."
+    },
+    {
+      "id": 22,
+      "title": "Đèn cảnh báo má phanh",
+      "image": "22.png",
+      "meaning": "Má phanh của một hoặc một số bánh xe bị mòn quá chuẩn.",
+      "handling": "Đưa xe đi kiểm tra để thay má phanh, đảm bảo an toàn."
+    },
+    {
+      "id": 23,
+      "title": "Đèn cảnh báo tan băng cửa sổ sau",
+      "image": "23.png",
+      "meaning": "Ở các nước lạnh, đèn này báo rằng cần làm tăng ban ở cửa sổ sau xe.",
+      "handling": "Làm tan băng để đảm bảo lái xe an toàn."
+    },
+    {
+      "id": 24,
+      "title": "Đèn cảnh báo lỗi hộp số tự động",
+      "image": "24.png",
+      "meaning": "Hộp số tự động đang gặp lỗi.",
+      "handling": "Không nên lái xe khi đèn này báo sáng để đảm bảo an toàn. Nên gọi cứu hộ đưa xe đi kiểm tra ngay."
+    },
+    {
+      "id": 25,
+      "title": "Đèn cảnh báo lỗi hệ thống treo",
+      "image": "25.png",
+      "meaning": "Hệ thống treo của xe đang gặp trục trặc.",
+      "handling": "Nên mang xe đi kiểm tra."
+    },
+    {
+      "id": 26,
+      "title": "Đèn cảnh báo giảm sóc",
+      "image": "26.png",
+      "meaning": "Hệ thống giảm xóc có thể gặp lỗi hoặc xe đang chở quá tải.",
+      "handling": "Kiểm tra tải trọng của xe, mang xe đi kiểm tra nếu chở không quá tải trọng mà đèn vẫn sáng."
+    },
+    {
+      "id": 27,
+      "title": "Đèn cảnh báo cánh gió sau",
+      "image": "27.png",
+      "meaning": "Cánh gió sau có thể ở vị trí không đúng tiêu chuẩn, có thể làm mất cân bằng hoặc giảm tốc độ xe.",
+      "handling": "Kiểm tra và điều chỉnh vị trí cánh gió sau. Mang xe đi kiểm tra nếu không thể tự điều chỉnh được."
+    },
+    {
+      "id": 28,
+      "title": "Báo lỗi đèn ngoại thất",
+      "image": "28.png",
+      "meaning": "Một hoặc một số đèn ở ngoài thân xe đang bị lỗi.",
+      "handling": "Kiểm tra các đèn ngoài thân xe."
+    },
+    {
+      "id": 29,
+      "title": "Cảnh báo đèn phanh",
+      "image": "29.png",
+      "meaning": "Đèn phanh xe bị lỗi (không sáng khi đạp phanh).",
+      "handling": "Kiểm tra và sửa chữa/thay thế ngay để đảm bảo an toàn"
+    },
+    {
+      "id": 30,
+      "title": "Đèn báo cảm ứng mưa và ánh sáng",
+      "image": "30.png",
+      "meaning": "Đèn cảm ứng mưa và ánh sáng có thể bị lỗi.",
+      "handling": "Mang xe đi kiểm tra nếu đèn này không tắt sau thời gian dài."
+    },
+    {
+      "id": 31,
+      "title": "Đèn báo điều chỉnh khoảng sáng đèn pha",
+      "image": "31.png",
+      "meaning": "Đèn pha đang bật, điều chỉnh khoảng sáng phù hợp để tránh làm chói mắt xe ngược chiều.",
+      "handling": "Điều chỉnh khoảng sáng phù hợp với điều kiện lái xe."
+    },
+    {
+      "id": 32,
+      "title": "Đèn báo hệ thống chiếu sáng thích ứng",
+      "image": "32.png",
+      "meaning": "Hệ thống tự động điều khiển chùm sáng hoạt động không tốt.",
+      "handling": "Kiểm tra và sửa chữa/thay thế."
+    },
+    {
+      "id": 33,
+      "title": "Báo lỗi đèn móc kéo",
+      "image": "33.png",
+      "meaning": "Đèn móc kéo bị lỗi.",
+      "handling": "Kiểm tra và sửa chữa/thay thế."
+    },
+    {
+      "id": 34,
+      "title": "Đèn cảnh báo mui của xe mui trần",
+      "image": "34.png",
+      "meaning": "Mui xe ở vị trí không đúng tiêu chuẩn.",
+      "handling": "Kiểm tra và điều chỉnh vị trí mui xe. Mang xe đi kiểm tra nếu không thể tự điều chỉnh."
+    },
+    {
+      "id": 35,
+      "title": "Báo chìa khóa không nằm trong ổ",
+      "image": "35.png",
+      "meaning": "Không có chìa khóa trong ổ khóa xe.",
+      "handling": "Kiểm tra và gắn chìa khóa vào ổ."
+    },
+    {
+      "id": 36,
+      "title": "Đèn cảnh báo chuyển làn đường",
+      "image": "36.png",
+      "meaning": "Có thể xe đang chạy không đúng làn đường, chệch làn, có thể nguy hiểm.",
+      "handling": "Kiểm tra và điều khiển xe đi đúng làn đường để đảm bảo an toàn."
+    },
+    {
+      "id": 37,
+      "title": "Đèn báo nhấn chân côn",
+      "image": "37.png",
+      "meaning": "Người lái xe đạp chân côn chưa đúng cách, bị dính chân côn hoặc chân côn chưa sát.",
+      "handling": "Thả chân côn và đạp lại."
+    },
+    {
+      "id": 38,
+      "title": "Đèn báo nước rửa kính ở mức thấp",
+      "image": "38.png",
+      "meaning": "Thiếu nước rửa kính.",
+      "handling": "Châm thêm nước rửa kính để đảm bảo an toàn khi lái xe."
+    },
+    {
+      "id": 39,
+      "title": "Đèn sương mù sau",
+      "image": "39.png",
+      "meaning": "Đèn sương mù phía sau xe đang mở.",
+      "handling": "Tắt nếu trời không có sương mù."
+    },
+    {
+      "id": 40,
+      "title": "Đèn sương mù trước",
+      "image": "40.png",
+      "meaning": "Đèn sương mù phía trước xe đang mở.",
+      "handling": "Tắt nếu trời không có sương mù."
+    },
+    {
+      "id": 41,
+      "title": "Đèn báo bật hệ thống điều khiển hành trình",
+      "image": "41.png",
+      "meaning": "Hệ thống điều khiển hành trình đang mở.",
+      "handling": "Tắt hệ thống điều khiển hành trình nếu cần thiết."
+    },
+    {
+      "id": 42,
+      "title": "Đèn báo nhấn chân phanh",
+      "image": "42.png",
+      "meaning": "",
+      "handling": ""
+    },
+    {
+      "id": 43,
+      "title": "Đèn báo sắp hết nhiên liệu",
+      "image": "43.png",
+      "meaning": "Xăng hoặc dầu sắp hết.",
+      "handling": "Tìm ngay cây xăng gần nhất để tiếp thêm nhiên liệu."
+    },
+    {
+      "id": 44,
+      "title": "Đèn báo rẽ",
+      "image": "44.png",
+      "meaning": "",
+      "handling": ""
+    },
+    {
+      "id": 45,
+      "title": "Đèn báo chế độ lái mùa đông",
+      "image": "45.png",
+      "meaning": "Xe đang ở trong chế độ lái mua đông (đường có băng tuyết và trơn trượt).",
+      "handling": "Nên sử dụng chế độ này khi lái xe vào mùa đông hoặc điều kiện thời tiết lạnh."
+    },
+    {
+      "id": 46,
+      "title": "Đèn báo thông tin",
+      "image": "46.png",
+      "meaning": "Xe thông báo thông tin bằng tín hiệu hoặc hiển thị trên bảng điện tử.",
+      "handling": "Kiểm tra thông tin trên bảng điện tử."
+    },
+    {
+      "id": 47,
+      "title": "Đèn báo trời sương giá",
+      "image": "47.png",
+      "meaning": "Cảm biến thời tiết của xe phát hiện thời tiết bên ngoài đang có sương giá.",
+      "handling": "Nên quan sát kỹ và hạn chế tốc độ để lái xe an toàn."
+    },
+    {
+      "id": 48,
+      "title": "Đèn báo khóa điều khiển từ xa sắp hết pin",
+      "image": "48.png",
+      "meaning": "Khóa điều khiển từ xa sắp hết pin.",
+      "handling": "Kiểm tra và sạc lại khóa."
+    },
+    {
+      "id": 49,
+      "title": "Đèn cảnh báo khoảng cách",
+      "image": "49.png",
+      "meaning": "Khoảng cách của xe so với xe khác đang quá gần, có thể nguy hiểm.",
+      "handling": "Điều khiển xe đảm bảo khoảng cách an toàn nhất."
+    },
+    {
+      "id": 50,
+      "title": "Đèn cảnh báo bật đèn pha",
+      "image": "50.png",
+      "meaning": "Đèn pha đang bật, điều này có thể gây mất tầm nhìn của xe ngược chiều hoặc vi phạm luật giao thông nếu đang đi trong đô thị/khu vực dân cư.",
+      "handling": "Điều chỉnh khoảng sáng của đèn pha hoặc tắt đèn pha nếu không cần thiết."
+    },
+    {
+      "id": 51,
+      "title": "Đèn báo thông tin đèn xi nhan",
+      "image": "51.png",
+      "meaning": "",
+      "handling": ""
+    },
+    {
+      "id": 52,
+      "title": "Cảnh báo lỗi bộ chuyển đổi xúc tác",
+      "image": "52.png",
+      "meaning": "Bộ chuyển đối xúc tác gặp trực trặc, nguyên nhân thường gặp nhất là do hệ thống đánh lửa bị yếu khiến nhiên liệu không được đốt cháy hết.\n(Bộ chuyển đổi xúc tác có hình dạng giống như ống pô, bên trong chứa các kim loại quý – chất xúc tác cho phản ứng hóa học đốt cháy xăng dư và CO thành hơi nước và CO2 ít độc hại cho môi trường.)",
+      "handling": "Mang xe đi kiểm tra."
+    },
+    {
+      "id": 53,
+      "title": "Đèn báo phanh đỗ xe",
+      "image": "53.png",
+      "meaning": "Phanh tay đang được kéo lên.",
+      "handling": "Hạ phanh tay xuống trước khi muốn xe chạy"
+    },
+    {
+      "id": 54,
+      "title": "Đèn báo hỗ trợ đỗ xe",
+      "image": "54.png",
+      "meaning": "",
+      "handling": ""
+    },
+    {
+      "id": 55,
+      "title": "Đèn báo xe cần bảo dưỡng",
+      "image": "55.png",
+      "meaning": "Xe cần được bảo dưỡng: thay dầu, các bộ lọc theo định kỳ.",
+      "handling": "Mang xe đi kiểm tra và tiến hành bảo dưỡng cần thiết."
+    },
+    {
+      "id": 56,
+      "title": "Đèn báo nước vào bộ lọc nhiên liệu",
+      "image": "56.png",
+      "meaning": "Có nước trong bộ lọc nhiên liệu.",
+      "handling": "Để một thời gian cho nước tự bay hơi (nếu ít). Nếu nước nhiều cần mang xe đi kiểm tra."
+    },
+    {
+      "id": 57,
+      "title": "Đèn báo tắt hệ thống túi khí",
+      "image": "57.png",
+      "meaning": "",
+      "handling": ""
+    },
+    {
+      "id": 58,
+      "title": "Đèn báo lỗi xe",
+      "image": "58.png",
+      "meaning": "Một hoặc một số bộ phận của xe có thể gặp sự cố.",
+      "handling": "Mang xe đi kiểm tra."
+    },
+    {
+      "id": 59,
+      "title": "Đèn báo bật đèn cos",
+      "image": "59.png",
+      "meaning": "Đèn chiếu gần đang mở.",
+      "handling": "Tắt nếu quên không tắt đèn này."
+    },
+    {
+      "id": 60,
+      "title": "Đèn báo bộ lọc gió bị bẩn",
+      "image": "60.png",
+      "meaning": "Lọc gió bị bám nhiều bụi bẩn.",
+      "handling": "Kiểm tra và vệ sinh lọc gió."
+    },
+    {
+      "id": 61,
+      "title": "Đèn báo chế độ lái tiết kiệm nhiên liệu",
+      "image": "61.png",
+      "meaning": "Xe đang ở trong chế độ lái tiết kiệm nhiện liệu.",
+      "handling": "Tắt chế độ này nếu không cần thiết."
+    },
+    {
+      "id": 62,
+      "title": "Đèn báo bật hệ thống hỗ trợ đổ đèo",
+      "image": "62.png",
+      "meaning": "Hệ thống hỗ trợ đổ đèo đang được bật.",
+      "handling": "Tắt chế độ này khi đã hoàn thành đổ đèo."
+    },
+    {
+      "id": 63,
+      "title": "Đèn cảnh báo lõi bộ lọc nhiên liệu",
+      "image": "63.png",
+      "meaning": "Có thể có nước hoặc cặn bẩn trong bộ lọc nhiên liệu.",
+      "handling": "Mang xe đi kiểm tra."
+    },
+    {
+      "id": 64,
+      "title": "Đèn cảnh báo giới hạn tốc độ",
+      "image": "64.jpg",
+      "meaning": "Có thể xe đang chạy quá tốc độ giới hạn.",
+      "handling": "Điều khiển xe đúng tốc độ giới hạn."
+    }
+  ]
+}

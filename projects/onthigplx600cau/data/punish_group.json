@@ -1,0 +1,203 @@
+{
+  "punishGroups": [
+    {
+      "id": 101,
+      "groupId": 1,
+      "imageName": "101.png",
+      "name": "Hiệu lệnh, chỉ dẫn"
+    },
+    {
+      "id": 102,
+      "groupId": 1,
+      "imageName": "102.png",
+      "name": "Chuyển hướng, nhường đường"
+    },
+    {
+      "id": 103,
+      "groupId": 1,
+      "imageName": "103.png",
+      "name": "Dừng xe, đỗ xe"
+    },
+    {
+      "id": 104,
+      "groupId": 1,
+      "imageName": "104.png",
+      "name": "Thiết bị ưu tiên, còi"
+    },
+    {
+      "id": 105,
+      "groupId": 1,
+      "imageName": "105.png",
+      "name": "Tốc độ, khoảng cách an toàn"
+    },
+    {
+      "id": 106,
+      "groupId": 1,
+      "imageName": "106.png",
+      "name": "Vận chuyển người, hàng hóa"
+    },
+    {
+      "id": 107,
+      "groupId": 1,
+      "imageName": "107.png",
+      "name": "Trang thiết bị phương tiện"
+    },
+    {
+      "id": 108,
+      "groupId": 1,
+      "imageName": "108.png",
+      "name": "Đường cấm, đường một chiều"
+    },
+    {
+      "id": 109,
+      "groupId": 1,
+      "imageName": "109.png",
+      "name": "Nồng độ cồn, chất kích thích"
+    },
+    {
+      "id": 110,
+      "groupId": 1,
+      "imageName": "110.png",
+      "name": "Giấy tờ xe"
+    },
+    {
+      "id": 111,
+      "groupId": 1,
+      "imageName": "111.png",
+      "name": "Khác"
+    },
+    {
+      "id": 201,
+      "groupId": 2,
+      "imageName": "101.png",
+      "name": "Hiệu lệnh, chỉ dẫn"
+    },
+    {
+      "id": 202,
+      "groupId": 2,
+      "imageName": "102.png",
+      "name": "Chuyển hướng, nhường đường"
+    },
+    {
+      "id": 203,
+      "groupId": 2,
+      "imageName": "203.png",
+      "name": "Dừng xe, đỗ xe"
+    },
+    {
+      "id": 204,
+      "groupId": 2,
+      "imageName": "104.png",
+      "name": "Thiết bị ưu tiên, còi"
+    },
+    {
+      "id": 205,
+      "groupId": 2,
+      "imageName": "205.png",
+      "name": "Tốc độ, khoảng cách an toàn"
+    },
+    {
+      "id": 206,
+      "groupId": 2,
+      "imageName": "206.png",
+      "name": "Vận chuyển người, hàng hóa"
+    },
+    {
+      "id": 207,
+      "groupId": 2,
+      "imageName": "207.png",
+      "name": "Trang thiết bị phương tiện"
+    },
+    {
+      "id": 208,
+      "groupId": 2,
+      "imageName": "108.png",
+      "name": "Đường cấm, đường một chiều"
+    },
+    {
+      "id": 209,
+      "groupId": 2,
+      "imageName": "109.png",
+      "name": "Nồng độ cồn, chất kích thích"
+    },
+    {
+      "id": 210,
+      "groupId": 2,
+      "imageName": "110.png",
+      "name": "Giấy tờ xe"
+    },
+    {
+      "id": 211,
+      "groupId": 2,
+      "imageName": "111.png",
+      "name": "Khác"
+    },
+    {
+      "id": 301,
+      "groupId": 3,
+      "imageName": "101.png",
+      "name": "Hiệu lệnh, chỉ dẫn"
+    },
+    {
+      "id": 302,
+      "groupId": 3,
+      "imageName": "102.png",
+      "name": "Chuyển hướng, nhường đường"
+    },
+    {
+      "id": 303,
+      "groupId": 3,
+      "imageName": "203.png",
+      "name": "Dừng xe, đỗ xe"
+    },
+    {
+      "id": 304,
+      "groupId": 3,
+      "imageName": "104.png",
+      "name": "Thiết bị ưu tiên, còi"
+    },
+    {
+      "id": 305,
+      "groupId": 3,
+      "imageName": "205.png",
+      "name": "Tốc độ, khoảng cách an toàn"
+    },
+    {
+      "id": 306,
+      "groupId": 3,
+      "imageName": "206.png",
+      "name": "Vận chuyển người, hàng hóa"
+    },
+    {
+      "id": 307,
+      "groupId": 3,
+      "imageName": "207.png",
+      "name": "Trang thiết bị phương tiện"
+    },
+    {
+      "id": 308,
+      "groupId": 3,
+      "imageName": "108.png",
+      "name": "Đường cấm, đường một chiều"
+    },
+    {
+      "id": 309,
+      "groupId": 3,
+      "imageName": "109.png",
+      "name": "Nồng độ cồn, chất kích thích"
+    },
+    {
+      "id": 310,
+      "groupId": 3,
+      "imageName": "110.png",
+      "name": "Giấy tờ xe"
+    },
+    {
+      "id": 311,
+      "groupId": 3,
+      "imageName": "111.png",
+      "name": "Khác"
+    }
+  ]
+}
+
